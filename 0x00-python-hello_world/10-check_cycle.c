@@ -32,5 +32,4 @@ int check_cycle(listint_t *list)
 		hare = hare->next->next;
 	}
 
-	return (0);
-}
+	return (0);}
